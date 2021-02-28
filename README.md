@@ -4,7 +4,7 @@
 
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Javascript and React hopefuly the whole MERN Stack by the end of this year.
+- 🌱 I’m currently learning Javascript and React (hopefuly the whole MERN Stack by the end of this year 😉).
 - 💬 Ask me about **JavaScript, React && Flutter**
 - 📫 Reach out to me at **[`placideralph@gmail.com`](mailto:placideralph@gmail.com)**
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
