@@ -14,13 +14,7 @@
 <br>
 
 <div>
-<details>
-  <summary>GitHub Stats</summary>
 
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ralphZero&show_icons=true&hide_border=true" />
-
-</details>
-</div>
 
 <div>
 <details>
