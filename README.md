@@ -1,4 +1,4 @@
-Hi 👋 My name is Ralph Sebastien Placide 
+Hi 👋 My name is Ralph Sébastien Placide 
 ========================================  
 
 Software Engineer
