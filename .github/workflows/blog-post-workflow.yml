@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in Medium posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: ralphZero/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@ralphplacide"
