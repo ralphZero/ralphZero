@@ -10,7 +10,7 @@ Passionate about Software Engineering and everything else related to tech. I lov
 * 🌍  I'm based in Fort-Lauderdale, FL 
 * ✉️  You can contact me at [placideralph@gmail.com](mailto:placideralph@gmail.com) 
 * 🧠  I'm learning MongoDB, Express and React 
-* 🤝  I'm open to collaborating on Intersting projects 
+* 🤝  I'm open to collaborating on Interesting projects 
 * ⚡  I'm secretly a Superhero ... don't tell anyone 🤫
 
 <a href="https://www.github.com/ralphZero" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ralphZero?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
