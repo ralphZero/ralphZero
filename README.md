@@ -37,6 +37,7 @@ Passionate about Software Engineering and everything else related to tech. I lov
  
 ### Latest Blog Posts 💻📚
 <!-- BLOG-POST-LIST:START -->
+- [Some useful things in CSS](https://medium.com/@ralphplacide/some-useful-things-in-css-65553e6b3e82?source=rss-d003240f8487------2)
 - [Let’s build a simple API with Express and MongoDB.](https://medium.com/@ralphplacide/lets-build-a-simple-api-with-express-and-mongodb-5e9aae53add0?source=rss-d003240f8487------2)
 - [Track changes in your code with Git](https://medium.com/@ralphplacide/track-changes-in-your-code-with-git-3f245c1a1516?source=rss-d003240f8487------2)
 - [Functions in Javascript for beginners](https://medium.com/@ralphplacide/functions-in-javascript-for-beginners-9a89c38a7b9d?source=rss-d003240f8487------2)
