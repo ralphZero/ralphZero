@@ -9,7 +9,7 @@ Passionate about Software Engineering and everything else related to tech. I lov
 
 * 🌍  I'm based in Fort-Lauderdale, FL 
 * ✉️  You can contact me at [placideralph@gmail.com](mailto:placideralph@gmail.com) 
-* 🧠  I'm learning MongoDB, Express and React 
+* 🧠  I'm learning test driven development  
 * 🤝  I'm open to collaborating on Interesting projects 
 * ⚡  I'm secretly a Superhero ... don't tell anyone 🤫
 
