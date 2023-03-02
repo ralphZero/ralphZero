@@ -39,6 +39,7 @@ Passionate about Software Engineering and everything else related to tech. I lov
  
 ### Latest Blog Posts 💻📚
 <!-- BLOG-POST-LIST:START -->
+- [Git powerhouses: Rebase &amp; Stash](https://medium.com/@ralphplacide/git-powerhouses-rebase-stash-7194a2948745?source=rss-d003240f8487------2)
 - [Some useful things in CSS](https://medium.com/@ralphplacide/some-useful-things-in-css-65553e6b3e82?source=rss-d003240f8487------2)
 - [Let’s build a simple API with Express and MongoDB.](https://medium.com/@ralphplacide/lets-build-a-simple-api-with-express-and-mongodb-5e9aae53add0?source=rss-d003240f8487------2)
 - [Track changes in your code with Git](https://medium.com/@ralphplacide/track-changes-in-your-code-with-git-3f245c1a1516?source=rss-d003240f8487------2)
