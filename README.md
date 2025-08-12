@@ -7,7 +7,7 @@ Software Engineer
 Passionate about Software Engineering and everything else related to tech. I love to learn new things, and I'm not afraid to take on challenges because I firmly believe that we learn best by overcoming trials and obstacles.
 
 
-* 🌍  I'm based in Fort-Lauderdale, FL 
+* 🌍  I'm based in Atlanta, GA
 * 🧠  I'm learning test driven development  
 * 🤝  I'm open to collaborating on Interesting projects 
 * ⚡  I'm secretly a Superhero ... don't tell anyone 🤫
